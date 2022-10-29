@@ -1,0 +1,11 @@
+.git
+Dockerfile
+node_modules
+migrations
+npm-debug.log
+npm-debug
+dist
+.vscode
+.env
+.env.dev
+.env.prod
